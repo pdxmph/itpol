@@ -31,7 +31,12 @@ and common sense.
 We're sharing this document as a way to
 [bring the benefits of open-source collaboration to IT policy documentation][18]. If
 you find it useful, we hope you'll contribute to its development by
+<<<<<<< HEAD
 making a fork for your own organization and sharing your improvements.
+=======
+making a fork for your own organization and sharing your
+improvements. 
+>>>>>>> 34de38338de2fb47d321b419a92b8cf396003bf0
 
 ### Structure
 
